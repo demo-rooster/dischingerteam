@@ -1,77 +1,66 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Dischinger & Sessions Orthodontic Team",
+  "domain": "dischingerteam.com",
+  "email": "info@dischingerteam.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "503-635-4439",
+    "href": "tel:+15036354439",
+    "aria": "5 0 3, 6 3 5, 4 4 3 9"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Lake Oswego (Main Office)",
       "address": {
-        "street": "9650 Main Street",
+        "street": "3943 Douglas Wy",
         "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "city_state": "Lake Oswego, OR 97035",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "-122.7179128",
+          "latitude": "45.4134324"
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "503-635-4439",
+        "href": "tel:+15036354439"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@dischingerteam.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
-        },
-        {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Mon - Thu",
+          "time": "7:35 am - 4:35 pm"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/place/The+Dischinger+%26+Sessions+Orthodontic+Team/@45.4134324,-122.7179128,17z",
         "label": "Get Directions"
       },
       "special_note": ""
     },
     {
-      "title": "Tonawanda Office",
+      "title": "Portland Office",
       "address": {
-        "street": "1077 Delaware Rd",
+        "street": "8885 SW Canyon Rd #125",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "Portland, OR 97225",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "503-635-4439",
+        "href": "tel:+15036354439"
       },
-      "email": "info@mandtortho.com",
-      "hours": [],
+      "email": "info@dischingerteam.com",
+      "hours": [
+        {
+          "day": "Mon - Thu",
+          "time": "7:35 am - 4:35 pm"
+        }
+      ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=8885+SW+Canyon+Rd+%23125+Portland+OR+97225",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -94,28 +83,28 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "3943 Douglas Wy, Lake Oswego, OR 97035",
+        "href": "https://www.google.com/maps/place/The+Dischinger+%26+Sessions+Orthodontic+Team/@45.4134324,-122.7179128,17z",
+        "label": "View 3943 Douglas Wy, Lake Oswego, OR 97035 on google maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "503-635-4439",
+        "href": "tel:+15036354439",
+        "label": "Call 5 0 3. 6 3 5. 4 4 3 9.",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "Schedule a Free Consultation",
+      "text": "Free consultation including X-rays, photos and a personalized treatment plan. Call or book online.",
+      "mobile_text": "Free Consultation",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Schedule a Free Consultation",
+        "text": "We offer complimentary consultations (includes X-rays and photos) to review options and tailor a treatment plan. Call (503) 635-4439 or use the Schedule Consultation button."
       }
     }
   },
@@ -129,8 +118,8 @@
           "label": "Schedule Consultation",
           "aria_label": "Schedule a consultation",
           "href": "",
-          "path": "/contact",
-          "hash": "#form",
+          "path": "/free-consult/",
+          "hash": "",
           "external": false,
           "include_icon": true,
           "icon": "tooth-two-v2",
@@ -150,15 +139,19 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
-        "icon": "youtube"
+        "href": "https://www.facebook.com/DischingerOrtho/",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/dischingerteamorthodontics/",
+        "icon": "instagram"
       }
     ],
     "add_border": false
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
+    "title": "Welcome to Dischinger & Sessions Orthodontic Team",
     "text": "",
     "image": {
       "src": "",
